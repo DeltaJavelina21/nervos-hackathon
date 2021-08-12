@@ -5,4 +5,4 @@
 
 - CKB Indexer Snapshot:
 
-![](ckb_indexer_snap.png
+![](ckb_indexer_snap.png)
