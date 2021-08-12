@@ -4,4 +4,5 @@
 ![](ckb_node_snap.png)
 
 - CKB Indexer Snapshot:
+
 ![](ckb_indexer_snap.png
