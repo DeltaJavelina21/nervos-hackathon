@@ -11,3 +11,5 @@ https://explorer.nervos.org/aggron/address/ckt1qyqgd8y9dzl2r2sx792qzqfkk3gw4az2k
 ![](layer2deposit_success.PNG)
 
 # Proof the transaction was a success!!!
+
+![](godwokeproof.PNG)
