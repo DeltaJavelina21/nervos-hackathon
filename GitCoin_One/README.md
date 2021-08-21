@@ -1,5 +1,5 @@
 # A screenshot of the accounts created (account-list) in ckb-cli
-![](account.png)
+![](ckb_account.png)
 
 # A link to the Layer 1 address you funded on the Testnet Explorer.
 
