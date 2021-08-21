@@ -8,4 +8,6 @@ https://explorer.nervos.org/aggron/address/ckt1qyqgd8y9dzl2r2sx792qzqfkk3gw4az2k
 
 # A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
 
+![](layer2deposit_success.PNG)
+
 # Proof the transaction was a success!!!
